@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(147): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(339): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(365): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danial\Desktop\FinalProject\FinalProject\main.cpp(390): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 163 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FinalProject.vcxproj -> C:\Users\Danial\Desktop\FinalProject\Release\FinalProject.exe
